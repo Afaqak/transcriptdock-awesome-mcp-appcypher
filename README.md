@@ -321,6 +321,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/spotify/1DB954" height="14"/> [Spotify](https://github.com/varunneal/spotify-mcp) - Connects with Spotify for playback control and track/album/artist/playlist management.
 - <img src="https://cdn.worldvectorlogo.com/logos/tiktok-icon-2.svg" height="14"/> [TikTok](https://github.com/Seym0n/tiktok-mcp) - TikTok integration for getting post details and video's subtitles
 
+- <img src="https://www.transcriptdock.com/icon-512.png" height="14" alt="Transcript Dock" /> [Transcript Dock](https://github.com/TranscriptDock/transcriptdock-mcp) - Hosted and local MCP server for YouTube and TikTok captions, AI transcription, timed transcript exports, and asynchronous batch jobs. API key or OAuth authentication required.
+
 <br />
 
 ## 🎮 <a name="gaming"></a>Gaming
